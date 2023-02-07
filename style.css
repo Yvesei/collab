@@ -1,0 +1,23 @@
+
+
+.w-200 {
+    width: 200px ;
+}
+
+
+.ce{
+    text-align: center;
+}
+.ce>tr>td {
+    text-align: center;
+}
+.ce>th{
+    width: auto;
+}
+
+
+@media only screen and (max-width: 800px) {
+    #ham {
+      display:none;
+    }
+  }
